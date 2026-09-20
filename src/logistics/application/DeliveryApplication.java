@@ -1,4 +1,4 @@
-package application;
+package logistics.application;
 
 import logistics.abstractfactory.Button;
 import logistics.abstractfactory.Checkbox;
